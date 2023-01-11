@@ -38,4 +38,8 @@ Peticiones Get y Dataframe\
 Filtrar DataFrame para incluir datos de Falcon9\
 Ajustes Finales
 
-## PROPHET
+## PROPHET - PREDICCIÓN VALOR NETFLIX
+
+Importación de Librerías\
+Cargar histórico de datos\
+Entrenar y predecir el modelo\
