@@ -42,4 +42,4 @@ Ajustes Finales
 
 Importación de Librerías\
 Cargar histórico de datos\
-Entrenar y predecir el modelo\
+Entrenar y predecir el modelo
