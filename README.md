@@ -43,3 +43,23 @@ Ajustes Finales
 Importación de Librerías\
 Cargar histórico de datos\
 Entrenar y predecir el modelo
+
+# DIA 3
+
+## INTRODUCCIÓN A MACHINE LEARNING CON SCIKIT-LEARN
+
+### Introducción a Machine Learning con Scikit-Learn
+
+Un primer ejemplo\
+Ejercicio 1\
+¿Cómo mejorar nuestro modelo?\
+Ejercicio 2
+
+### La importancia de los conjuntos Test y Train
+
+Ejemplo
+
+### Los Hiperparámetros
+
+Teoría y ejemplo\
+Ejercicio
